@@ -1,0 +1,15 @@
+.InfoBox {
+    display: flex;
+    flex-direction: column;   /* Stack heading and card vertically */
+    justify-content: center;  /* Center items vertically */
+    align-items: center;      /* Center items horizontally */           /* Full height of the viewport for vertical centering */
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;   /* Stack heading and card vertically */
+    justify-content: center;  /* Center items vertically */
+    align-items: center;      /* Center items horizontally */           /* Full height of the viewport for vertical centering */
+    text-align: center; 
+}
